@@ -1,0 +1,1 @@
+# confidence-interval-for-the-proportion.--Forest_fires_inferential_statistics_proportions
